@@ -9,3 +9,7 @@ When you click Users in the sidebar link you go to the users list. This is a ver
 
 <img src="https://github.com/Rapheta/Admin-Dashboard-Example-React/blob/main/images/002.png" width="100%"/>
 
+In the users page you can see the user information and update any of them. You can create new users as well.
+
+<img src="https://github.com/Rapheta/Admin-Dashboard-Example-React/blob/main/images/003.png" width="100%"/>
+
