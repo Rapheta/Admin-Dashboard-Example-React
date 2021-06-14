@@ -9,7 +9,14 @@ When you click Users in the sidebar link you go to the users list. This is a ver
 
 <img src="https://github.com/Rapheta/Admin-Dashboard-Example-React/blob/main/images/002.png" width="100%"/>
 
-In the users page you can see the user information and update any of them. You can create new users as well.
+In the users page you can see the user information and update any of them and you can create new users as well.
 
 <img src="https://github.com/Rapheta/Admin-Dashboard-Example-React/blob/main/images/003.png" width="100%"/>
 
+It happens the same with the products. In case you select Products in the sidebar link you will get the products list as you can see in the following picture.
+
+<img src="https://github.com/Rapheta/Admin-Dashboard-Example-React/blob/main/images/004.png" width="100%"/>
+
+You can reach the sales analytics information.
+
+It is important you know this is just an example design. It is not connected to any database.
