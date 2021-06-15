@@ -7,6 +7,8 @@
 - Email: rafael.castelletginard@gmail.com
 - LinkedIn: https://www.linkedin.com/in/rafael-castellet-ginard/
 
+---------------------------------------------
+
 **Front-End Exercise designed and developed using React**
 
 This is an admin dashboard example designed and developed using React and Hooks.
