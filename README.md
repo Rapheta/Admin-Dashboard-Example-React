@@ -1,4 +1,14 @@
-# Admin-Dashboard-Example-React
+# Admin Dashboard Example React
+
+**About me**
+
+- Name: Rafael Castellet Ginard
+- Phone number: (+34) 653114707
+- Email: rafael.castelletginard@gmail.com
+- LinkedIn: https://www.linkedin.com/in/rafael-castellet-ginard/
+
+**Front-End Exercise designed and developed using React**
+
 This is an admin dashboard example designed and developed using React and Hooks.
 
 <img src="https://github.com/Rapheta/Admin-Dashboard-Example-React/blob/main/images/001.png" width="100%"/>
